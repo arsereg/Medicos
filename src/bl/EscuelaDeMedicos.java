@@ -6,7 +6,4 @@ public class EscuelaDeMedicos {
         return new Doctor(pnombre, papellido, pespecialidad);
     }
 
-
-
-
 }
